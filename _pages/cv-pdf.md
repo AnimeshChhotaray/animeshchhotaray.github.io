@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-   <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://animeshchhotaray.github.io/files/Animesh-CV.pdf" width="500" height="375" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://animeshchhotaray.github.io/files/Animesh-CV.pdf">Download PDF</a>.</p>
+   <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://animeshchhotaray.github.io/files/Animesh_CV.pdf" width="500" height="375" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://animeshchhotaray.github.io/files/Animesh_CV.pdf">Download PDF </a>.</p>
     </embed>
