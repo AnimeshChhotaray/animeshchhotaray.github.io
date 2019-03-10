@@ -16,7 +16,8 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv-pdf/
+    url: https://animeshchhotaray.github.io/files/Animesh_CV.pdf
+   # url: /cv-pdf/
     
  # - title: "Guide"
  #   url: /markdown/
