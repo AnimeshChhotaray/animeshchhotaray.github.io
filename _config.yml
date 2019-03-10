@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Animesh Chhotaray"
   avatar           : "photo.jpg"
-  bio              : "PhD student at FICS Research, University of Florida. My work lies at the intersection of Hardware Security and Cryptography. In particular, I am interested in analyzing problems such as theft of electronic-design intellectual property of the design house, counterfeit integrated circuits, and hardware trojans."
+  bio              : "PhD student at FICS Research, University of Florida. Areas: Cryptography and Hardware Security
   location         : "Gainesville, Florida"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
