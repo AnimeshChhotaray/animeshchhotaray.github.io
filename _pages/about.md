@@ -12,8 +12,8 @@ I am a PhD student at FICS Research, University of Florida, advised by Dr. Thoma
 
 My research lies at the intersection of Cryptography and Hardware Security. In particular, I am interested in analysing security problems in the integrated-circuit supply chain using principles of cryptography.
 
-### 3 Slides Paper Summaries
-#### Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property
+## 3 Slides Paper Summaries
+### Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property
 
 ![Slide 1](https://animeshchhotaray.github.io/files/IEEE-P1735/Slide1.jpeg)
 
