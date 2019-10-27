@@ -19,4 +19,4 @@ My research lies at the intersection of Cryptography and Hardware Security. In p
 
 ![Slide 2](https://animeshchhotaray.github.io/files/IEEE-P1735/Slide2.jpeg)
 
-![Slide 3](https://animeshchhotaray.github.io/files/IEEE-P1735/Slide2.jpeg)
+![Slide 3](https://animeshchhotaray.github.io/files/IEEE-P1735/Slide3.jpeg)
