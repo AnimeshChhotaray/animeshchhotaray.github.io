@@ -14,6 +14,9 @@ My research lies at the intersection of Cryptography and Hardware Security. In p
 
 Life outside work and research: I love sports (tennis, table tennis/ping pong and cricket), write poems and songs occasionally, and like cooking (of course, eating too).
 
-## Research
+## Research (Lead)
+- IEEE S&P'22: Hardening Circuit Design IP Against Reverse-Engineering Attacks [[Paper]](https://eprint.iacr.org/2021/456.pdf)
 - CCS'17: Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property [[Paper]](https://acmccs.github.io/papers/p1533-chhotarayA.pdf)
 
+## Research (Support)
+- CODASPY'21: Brittle Features of Device Authentication (Second author)
