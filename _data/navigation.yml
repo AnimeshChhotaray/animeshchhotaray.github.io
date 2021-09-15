@@ -19,8 +19,8 @@ main:
     url: https://animeshchhotaray.github.io/files/Animesh_CV.pdf
    # url: /cv-pdf/
    
-  - title: "3-Slides Paper Summaries"
-    url: /Research Summaries/
+  - title: "Research"
+    url: /paper-summaries/
     
  # - title: "Guide"
  #   url: /markdown/
