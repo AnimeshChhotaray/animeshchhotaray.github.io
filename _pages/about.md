@@ -19,4 +19,4 @@ Life outside work and research: I love sports (tennis, table tennis/ping pong an
 - CCS'17: Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property [[Paper]](https://acmccs.github.io/papers/p1533-chhotarayA.pdf)
 
 ## Research (Support)
-- CODASPY'21: Brittle Features of Device Authentication (Second author)
+- CODASPY'21: Brittle Features of Device Authentication (Second author) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3422337.3447842)
