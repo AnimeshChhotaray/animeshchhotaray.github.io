@@ -14,6 +14,13 @@ My research lies at the intersection of Cryptography and Hardware Security. In p
 
 Life outside work and research: I love sports (tennis, table tennis/ping pong and cricket), write poems and songs occasionally, and like cooking (of course, eating too).
 
+## More about my research
+A counterfeit electronic component is an electronic part that deviates from a legitimate part in terms of ownership, specification, functionality and performance. Production of counterfeit chips is a longstanding problem that remains on the rise. There has been a reported increase in counterfeit parts by 25% every year since 2001 resulting in economic losses (reported as high as $169B). Considering the scale and impact of the counterfeit market, there is a need of designing techniques that prevent counterfeiting in every stage of the integrated-circuit supply chain. Researchers have been making significant efforts to provide solutions using cryptography. But, a lack of formal treatment in terms of modern cryptography leaves gaping holes in the existing solutions. My research is aimed at closing some of these holes in a systematic and principled way.
+
+In my CCS'17 paper ["Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property"](https://acmccs.github.io/papers/p1533-chhotarayA.pdf), we found weaknesses in the IEEE P1735 standard that leads to efficient recovery of cryptographic keys that are used by IP authors to enclose their circuit-design IP in a digital envelope in order to protect their IP from other adversarial IP authors in the design phase.
+
+In my IEEE S&P'22 paper ["Hardening Circuit Design IP Against Reverse-Engineering Attacks"](https://eprint.iacr.org/2021/456.pdf), we gave provable-security foundations for design-hiding schemes that are used by IP authors to prevent adversarial foundries from learning the functionality of their circuit design, and also contructed a design-hiding scheme that is provably-secure. Paper: https://eprint.iacr.org/2021/456.pdf
+
 ## Research (Lead)
 - IEEE S&P'22: Hardening Circuit Design IP Against Reverse-Engineering Attacks [[Paper]](https://eprint.iacr.org/2021/456.pdf)
 - CCS'17: Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property [[Paper]](https://acmccs.github.io/papers/p1533-chhotarayA.pdf)
