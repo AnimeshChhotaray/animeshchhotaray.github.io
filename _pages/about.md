@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at FICS Research, University of Florida (USA), advised by Dr. Thomas Shrimpton. I hold an MS in Computer Science from University of Florida, and a BTech in Computer Science from NIT Rourkela (India). After my BTech, I worked as an engineer for Samung Research Institute, Noida for two years followed by a two year teaching stint at KIIT, Bhubaneswar (my hometown). At Samsung, my work involved understanding the working of various FM drivers (e.g., Marvell, CSR) and solving bugs along with working on code optimization and stabilization. At KIIT, I taught  undergraduate students subjects like Programming in C, Computer Security, etc.
+I am a PhD student at FICS Research, University of Florida (USA), advised by Dr. Thomas Shrimpton. I hold an MS in Computer Science from University of Florida, and a BTech in Computer Science from NIT Rourkela (India). After my BTech, I worked as an engineer for Samung Research Institute, Noida for two years followed by a two year teaching stint at KIIT, Bhubaneswar (my hometown). At Samsung, my work involved understanding the working of various FM drivers (e.g., Marvell, CSR) and solving bugs along with working on code optimization and stabilization. At KIIT, I taught  undergraduate students Programming in C, Computer Security.
 
 My research lies at the intersection of Cryptography and Hardware Security. In particular, I am interested in analysing security problems such as intellectual-property theft and counterfeiting, in the integrated-circuit supply chain using principles of modern cryptography.
 
