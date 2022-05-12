@@ -21,7 +21,7 @@ The modern multi-billion-dollar integrated-circuit supply chain is global and di
 
 In my CCS'17 paper ["Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property"](https://acmccs.github.io/papers/p1533-chhotarayA.pdf), my co-authors (Adib Nahiyan, Dr. Domenic Forte, Dr. Thomas Shrimpton) and I found weaknesses in the IEEE P1735 standard that leads to efficient recovery of cryptographic keys that are used by owners of electronic-circuit designs aka IP authors to enclose their circuit-design IP in a digital envelope in order to protect their IP from other adversarial IP authors in the design phase.
 
-In my IEEE S&P'22 paper ["Hardening Circuit Design IP Against Reverse-Engineering Attacks"](https://eprint.iacr.org/2021/456.pdf), my co-author (Dr. Thomas Shrimpton) and I gave provable-security foundations for design-hiding schemes that are used by IP authors to prevent adversarial foundries from learning the functionality of their circuit design, contructed a design-hiding scheme that is provably-secure. Paper: https://eprint.iacr.org/2021/456.pdf
+In my IEEE S&P'22 paper ["Hardening Circuit Design IP Against Reverse-Engineering Attacks"](https://eprint.iacr.org/2021/456.pdf), my co-author (Dr. Thomas Shrimpton) and I gave provable-security foundations for design-hiding schemes that are used by IP authors to prevent adversarial foundries from learning the functionality of their circuit design, contructed a design-hiding scheme that is provably-secure.
 
 ## Research (Lead)
 - IEEE S&P'22: Hardening Circuit Design IP Against Reverse-Engineering Attacks [[Paper]](https://eprint.iacr.org/2021/456.pdf)
