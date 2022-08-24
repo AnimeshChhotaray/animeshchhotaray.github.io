@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "whoami"
+title: "whoami (PhD candidate/job hunter/happiness seeker)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
