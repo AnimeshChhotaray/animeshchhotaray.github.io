@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Animesh Chhotaray"
 title_separator          : "-"
 name                     : &name "Animesh Chhotaray"
-description              : &description "PhD alum of FICS Research, University of Florida"
+description              : &description "PhD, University of Florida"
 url                      : https://animeshchhotaray.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "animeshchhotaray/animeshchhotaray.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Animesh Chhotaray"
   avatar           : "photo.jpg"
-  bio              : "PhD (Cryptography and Hardware Security), University of Florida"
+  bio              : "PhD, University of Florida"
   location         : "Gainesville, Florida"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
