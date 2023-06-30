@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "whoami (PhD Candidate in job market)"
+title: "whoami (PhD @UF -> Research Scientist @GeorgiaTech)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at FICS Research, University of Florida (USA), advised by Dr. Thomas Shrimpton. I hold an MS in Computer Science from University of Florida, and a BTech in Computer Science from NIT Rourkela (India). After my BTech, I worked as an engineer for Samsung Research Institute, Noida for two years followed by a two year teaching stint at KIIT, Bhubaneswar (my hometown). At Samsung, my work involved understanding the working of various FM drivers (e.g., Marvell, CSR) and solving bugs along with working on code optimization and stabilization. At KIIT, I taught  undergraduate students Programming in C, Computer Security.
+I am a PhD alum (advised by Dr. Thomas Shrimpton) of FICS Research, University of Florida (USA). I hold an MS in Computer Science from University of Florida, and a BTech in Computer Science from NIT Rourkela (India). After my BTech, I worked as an engineer for Samsung Research Institute, Noida for two years followed by a two year teaching stint at KIIT, Bhubaneswar (my hometown). At Samsung, my work involved understanding the working of various FM drivers (e.g., Marvell, CSR) and solving bugs along with working on code optimization and stabilization. At KIIT, I taught  undergraduate students Programming in C, Computer Security.
 
 My research lies at the intersection of Cryptography and Hardware Security. In particular, I am interested in analysing security problems such as intellectual-property theft and counterfeiting, in the integrated-circuit supply chain using principles of modern cryptography. My reseaech has been published at top-tier security conferences (ACM CCS, IEEE S&P), has resulted in [7 CVEs](http://www.kb.cert.org/vuls/id/739007), and has also been featured in [The Register](https://www.theregister.co.uk/2017/11/07/ieee_p1735_chip_design_insecurity/), [threatpost](https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/), [The Hacker News](https://thehackernews.com/2017/11/ieee-p1735-ip-encryption.html), and other cybersecurity news publications.
 
