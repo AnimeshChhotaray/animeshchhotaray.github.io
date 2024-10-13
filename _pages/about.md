@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "whoami (PhD @UF -> Research Scientist @GeorgiaTech, CPSec lab)"
+title: "whoami (PhD @UF -> Research Scientist @GeorgiaTech)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,10 +16,10 @@ I am a cybersecurity researcher with a PhD (2023) and MS (2017) in Computer Scie
 <!-- Life outside work and research: I love sports (tennis, table tennis/ping pong and cricket), write poems and songs occasionally, and like cooking (of course, eating too).-->
 
 ## Publications
-- CCS'24: [Release the Hounds! Automated Inference and Empirical Security Evaluation of Field-Deployed PLCs using Active Network Data](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html) (Second author). Featured in Georgia Tech (ECE) [news](https://ece.gatech.edu/news/2024/10/new-algorithm-identifies-increase-critical-infrastructure-security-vulnerabilities-0).
-- IEEE S&P'22: Hardening Circuit Design IP Against Reverse-Engineering Attacks (First author) [[Paper]](https://eprint.iacr.org/2021/456.pdf)
-- CODASPY'21: Brittle Features of Device Authentication (Second author) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3422337.3447842)
-- CCS'17: Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property (First author) [[Paper]](https://acmccs.github.io/papers/p1533-chhotarayA.pdf). Researach led to [7 CVEs](http://www.kb.cert.org/vuls/id/739007), and has also been featured in [The Register](https://www.theregister.co.uk/2017/11/07/ieee_p1735_chip_design_insecurity/), [threatpost](https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/), [The Hacker News](https://thehackernews.com/2017/11/ieee-p1735-ip-encryption.html), and other cybersecurity news publications.
+- CCS'24: [Release the Hounds! Automated Inference and Empirical Security Evaluation of Field-Deployed PLCs using Active Network Data](https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html) (Second author). Featured in Georgia Tech (ECE) [news](https://ece.gatech.edu/news/2024/10/new-algorithm-identifies-increase-critical-infrastructure-security-vulnerabilities-0). **Keywords**: CPSsecurity, PLCs, ML 
+- IEEE S&P'22: Hardening Circuit Design IP Against Reverse-Engineering Attacks (First author) [[Paper]](https://eprint.iacr.org/2021/456.pdf). **Keywords**: IP Theft, LogicLocking HardwareSecurity, HardwareObfuscation, LogicEncryption, ProvableSecurity, Cryptography
+- CODASPY'21: Brittle Features of Device Authentication (Second author) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3422337.3447842). **Keywords**: ML, DeviceAuthentication, Attack.
+- CCS'17: Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property (First author) [[Paper]](https://acmccs.github.io/papers/p1533-chhotarayA.pdf). Researach led to [7 CVEs](http://www.kb.cert.org/vuls/id/739007), and has also been featured in [The Register](https://www.theregister.co.uk/2017/11/07/ieee_p1735_chip_design_insecurity/), [threatpost](https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/), [The Hacker News](https://thehackernews.com/2017/11/ieee-p1735-ip-encryption.html), and other cybersecurity news publications. **Keywords**: HardwareSecurity, IEEEStandard, P1735, Attack.
 
 
 <!-- ## More about my research on IC Supply Chain Security
