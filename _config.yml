@@ -10,7 +10,8 @@ locale                   : "en-US"
 title                    : "Animesh Chhotaray"
 title_separator          : "-"
 name                     : &name "Animesh Chhotaray"
-description              : &description "PhD, University of Florida"
+# description              : &description "PhD, University of Florida"
+description              : &description "Research Scientist, Georgia Tech"
 url                      : https://animeshchhotaray.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "animeshchhotaray/animeshchhotaray.github.io"
@@ -82,11 +83,11 @@ analytics:
 author:
   name             : "Animesh Chhotaray"
   avatar           : "photo.jpg"
-  bio              : "PhD, University of Florida"
-  location         : "Gainesville, Florida"
+  bio              : "Research Scientist, Georgia Tech"
+  location         : "Atlanta, Georgia"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "animesh at cise dot ufl dot edu"
+  email            :  "achhotaray3 at gatech dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -107,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@33animesh"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
