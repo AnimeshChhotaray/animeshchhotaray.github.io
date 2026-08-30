@@ -18,9 +18,14 @@ main:
   - title: "CV"
     url: https://animeshchhotaray.github.io/files/Animesh_CV.pdf
    # url: /cv-pdf/
+
+  - title: "Publications"
+    url: /publications/
    
-  - title: "Hardware Security"
+  - title: "Research: Hardware Security"
     url: /paper-summaries/
+    
+ 
     
  # - title: "Guide"
  #   url: /markdown/
