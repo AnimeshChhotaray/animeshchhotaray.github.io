@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
 - HICSS'27: [Analyzing Cyber Resilience of Distribution Systems with Vulnerable Inverter-Based Resources](https://molzahn.github.io/pubs/ashebo_raymaker_talkington_asiamah_chhotaray_zonouz_molzahn-der_attacks.pdf). **Keywords**: PowerGridSecurity, DistributedEnergyResources (DERs), InverterBasedResources (IBRs)
 - IACR CHES'26: [Bad Benchmarks and a Fourier-Analytic Framework for Characterizing the (Un)Hideability of Combinational-Logic Circuits](https://eprint.iacr.org/2026/623.pdf). **Keywords**: ICSupplyChainSecurity, IP Theft, LogicLocking HardwareSecurity, HardwareObfuscation, LogicEncryption
 - ACM CCS'25: [One Video to Steal Them All: 3D-Printing IP Theft through Optical Side-Channels](https://arxiv.org/abs/2506.21897). **Keywords**: IP-theft, AdditiveManufacturing, 3D printing, ML.
