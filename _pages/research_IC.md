@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "IC Supply Chain Security"
-permalink: /paper-summaries/
+permalink: /research_IC/
 author_profile: true
 redirect_from:
   - /paper-summaries
