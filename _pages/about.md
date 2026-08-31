@@ -16,6 +16,8 @@ My research focuses on discovering previously unknown cybersecurity vulnerabilit
 <!--After obtaining my Bachelors degree from NIT Rourkela (India), I worked as an engineer for Samsung Research Institute, Noida (India) for two years followed by a two year teaching stint at KIIT, Bhubaneswar (India). At Samsung, my work involved understanding the working of various FM drivers (e.g., Marvell, CSR) and solving bugs along with working on code optimization and stabilization. At KIIT, I taught  undergraduate students Programming in C, Computer Security. -->
 
 <!-- Life outside work and research: I love sports (tennis, table tennis/ping pong and cricket), write poems and songs occasionally, and like cooking (of course, eating too).-->
+
+<!--
 ## Publications
 - HICSS'27: [Analyzing Cyber Resilience of Distribution Systems with Vulnerable Inverter-Based Resources](https://molzahn.github.io/pubs/ashebo_raymaker_talkington_asiamah_chhotaray_zonouz_molzahn-der_attacks.pdf). **Keywords**: PowerGridSecurity, DistributedEnergyResources (DERs), InverterBasedResources (IBRs)
 - IACR CHES'26: [Bad Benchmarks and a Fourier-Analytic Framework for Characterizing the (Un)Hideability of Combinational-Logic Circuits](https://eprint.iacr.org/2026/623.pdf). **Keywords**: ICSupplyChainSecurity, IP Theft, LogicLocking HardwareSecurity, HardwareObfuscation, LogicEncryption
@@ -25,7 +27,7 @@ My research focuses on discovering previously unknown cybersecurity vulnerabilit
 - IEEE S&P'22: Hardening Circuit Design IP Against Reverse-Engineering Attacks (First author) [[Paper]](https://eprint.iacr.org/2021/456.pdf). **Keywords**: ICSupplyChainSecurity, IP Theft, LogicLocking, HardwareSecurity, HardwareObfuscation, LogicEncryption, Cryptography
 - CODASPY'21: Brittle Features of Device Authentication (Second author) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3422337.3447842). **Keywords**: ML, DeviceAuthentication, Attack.
 - ACM CCS'17: Standardizing Bad Cryptographic Practice - A teardown of the IEEE P1735 standard for protecting electronic-design intellectual property (First author) [[Paper]](https://acmccs.github.io/papers/p1533-chhotarayA.pdf). Researach led to [7 CVEs](http://www.kb.cert.org/vuls/id/739007), and has also been featured in [The Register](https://www.theregister.co.uk/2017/11/07/ieee_p1735_chip_design_insecurity/), [threatpost](https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/), [The Hacker News](https://thehackernews.com/2017/11/ieee-p1735-ip-encryption.html), and other cybersecurity news publications. **Keywords**: ICSupplyChainSecurity, HardwareSecurity, IEEEStandard, P1735, Attack.
-
+-->
 
 <!-- ## More about my research on IC Supply Chain Security
 The modern multi-billion-dollar integrated-circuit supply chain is global and distributed as different entities come together to produce a packaged integrated circuit. Developers of these integrated circuits or IP authors as they are otherwise known, spend lots of time, money and effort to come up with an efficient design of an integrated circuit. Therefore, IC designs are considered as intellectual properties of IP authors, and security mechanisms are needed to prevent adversarial entities in the supply chain from stealing the circuit IPs. In my research, I use principles of modern cryptography to develop provably-secure defenses against IP theft.-->
