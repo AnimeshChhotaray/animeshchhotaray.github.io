@@ -19,8 +19,8 @@ main:
     url: https://animeshchhotaray.github.io/files/Animesh_CV.pdf
    # url: /cv-pdf/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "Research: CPS & Critical-Infrastructure Security"
     url: /research_CPS/
