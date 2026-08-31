@@ -21,6 +21,9 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Research: CPS & Critical-Infrastructure Security"
+    url: /research_CPS/
    
   - title: "Research: Hardware Security"
     url: /research_IC/
