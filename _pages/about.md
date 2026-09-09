@@ -20,7 +20,7 @@ My research focuses on discovering previously unknown cybersecurity vulnerabilit
 
 ## Publications
 - HICSS'27: [Analyzing Cyber Resilience of Distribution Systems with Vulnerable Inverter-Based Resources](https://molzahn.github.io/pubs/ashebo_raymaker_talkington_asiamah_chhotaray_zonouz_molzahn-der_attacks.pdf). **Keywords**: PowerGridSecurity, DistributedEnergyResources (DERs), InverterBasedResources (IBRs)
-- ACM CCS'26: Grid Trouble in Paradise: Uncovering Vulnerable Distributed Energy Resources and Their Grid-Level Risks. **Keywords**: CPSsecurity, DistributedEnergyResources (DERs), InternetScanning, GridSecurity, VulnerabilityMeasurement, LLMs
+- ACM CCS'26: [Grid Trouble in Paradise: Uncovering Vulnerable Distributed Energy Resources and Their Grid-Level Risks](https://arxiv.org/abs/2609.07783). **Keywords**: CPSsecurity, DistributedEnergyResources (DERs), InternetScanning, GridSecurity, VulnerabilityMeasurement, LLMs
 - ACM CCS'26: Batten the Hatches: Cybersecurity with Military Mariners. **Keywords**: MaritimeSecurity, MilitaryCybersecurity, UserStudy
 - IMECE'26: CIE Methods for Modern Manufacturing *(ASME International Mechanical Engineering Congress and Exposition, IMECE2026-192577)*. **Keywords**: CyberInformedEngineering, Manufacturing, SecurityByDesign
 - IACR CHES'26: [Bad Benchmarks and a Fourier-Analytic Framework for Characterizing the (Un)Hideability of Combinational-Logic Circuits](https://eprint.iacr.org/2026/623.pdf). **Keywords**: ICSupplyChainSecurity, IP Theft, LogicLocking HardwareSecurity, HardwareObfuscation, LogicEncryption
