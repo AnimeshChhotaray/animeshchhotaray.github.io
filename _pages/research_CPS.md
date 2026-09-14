@@ -14,7 +14,7 @@ Critical infrastructure — the power grid, water treatment systems, manufacturi
 
 - **ACM CCS'26: Grid Trouble in Paradise: Uncovering Vulnerable Distributed Energy Resources and Their Grid-Level Risks** [[Paper](https://arxiv.org/abs/2609.07783)]: This Internet-wide measurement study identifies tens of thousands of Internet-exposed distributed energy resources (DERs) — solar inverters, meters, and gateway controllers — many reachable without authentication. The study characterizes these exposures and connects them to concrete grid-level risk, motivating the attack-budget framework used in the companion HICSS'27 paper.
 
-- **ACM CCS'26: Batten the Hatches: Cybersecurity with Military Mariners** [[Paper]()]: This study examines the cybersecurity posture of military maritime systems, extending prior work on civilian mariners to a defense context and identifying practical gaps in how shipboard personnel understand and respond to cyber threats.
+- **ACM CCS'26: Batten the Hatches: Cybersecurity with Military Mariners** [[Paper](https://arxiv.org/abs/2609.12810)]: This study examines the cybersecurity posture of military maritime systems, extending prior work on civilian mariners to a defense context and identifying practical gaps in how shipboard personnel understand and respond to cyber threats.
 
 - **IMECE'26: CIE Methods for Modern Manufacturing** *(ASME International Mechanical Engineering Congress and Exposition, IMECE2026-192577)* [[Paper]()]: This paper applies Cyber-Informed Engineering (CIE) principles to manufacturing operations, outlining how security-by-design methods can be used to protect factories and industrial facilities from cyberattack.
 
