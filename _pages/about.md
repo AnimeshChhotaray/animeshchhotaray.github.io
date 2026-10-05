@@ -19,7 +19,7 @@ My research focuses on discovering previously unknown cybersecurity vulnerabilit
 
 
 ## Publications
-- IEEE S&P'27: She Spoofed Sea Ships by the Sea Shore: Measuring Large-Scale GPS Spoofing in Global Maritime Traffic. **Keywords**: MaritimeSecurity, GPSSpoofing, AIS, InternetScanning, VulnerabilityMeasurement
+- IEEE S&P'27: She Spoofed Sea Ships by the Sea Shore: Measuring Large-Scale GPS Spoofing in Global Maritime Traffic [[Paper]](https://arxiv.org/pdf/2609.37676). **Keywords**: MaritimeSecurity, GPSSpoofing, AIS, InternetScanning, VulnerabilityMeasurement
 - HICSS'27: Analyzing Cyber Resilience of Distribution Systems with Vulnerable Inverter-Based Resources [[Paper]](https://molzahn.github.io/pubs/ashebo_raymaker_talkington_asiamah_chhotaray_zonouz_molzahn-der_attacks.pdf). **Keywords**: PowerGridSecurity, DistributedEnergyResources (DERs), InverterBasedResources (IBRs)
 - ACM CCS'26: Grid Trouble in Paradise: Uncovering Vulnerable Distributed Energy Resources and Their Grid-Level Risks [[Paper]](https://arxiv.org/abs/2609.07783). **Keywords**: CPSsecurity, DistributedEnergyResources (DERs), InternetScanning, GridSecurity, VulnerabilityMeasurement, LLMs
 - ACM CCS'26: Batten the Hatches: Cybersecurity with Military Mariners [[Paper]](https://arxiv.org/abs/2609.12810). **Keywords**: MaritimeSecurity, MilitaryCybersecurity, UserStudy
